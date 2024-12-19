@@ -1,4 +1,3 @@
-I'll help you create a README.md file for your bookstore project. Here's a simple but informative version:
 
 ```markdown:README.md
 # Python Bookstore Management System
@@ -70,23 +69,3 @@ Books are stored with the following attributes:
 
 Feel free to submit issues and enhancement requests.
 
-## License
-
-[Add your chosen license here]
-```
-
-This README.md provides:
-1. A brief description of the project
-2. Main features
-3. Installation instructions
-4. Usage examples
-5. Data model information
-6. Basic contribution guidelines
-
-You can customize it further by:
-- Adding more detailed usage examples
-- Including testing instructions
-- Specifying your chosen license
-- Adding badges (build status, version, etc.)
-- Including screenshots or diagrams
-- Adding contact information or maintainer details
